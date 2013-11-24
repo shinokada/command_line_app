@@ -1,0 +1,5 @@
+= recipes
+
+Generate this with
+    recipes rdoc
+After you have described your command line interface

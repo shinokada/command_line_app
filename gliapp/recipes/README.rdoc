@@ -1,0 +1,6 @@
+= recipes
+
+Describe your project here
+
+:include:recipes.rdoc
+
