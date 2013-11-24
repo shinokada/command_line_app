@@ -2,7 +2,7 @@
 
 ## Usage
 
-app.rb
+### app.rb
 
     # 1. 
     $ ruby app.rb oui
@@ -16,12 +16,13 @@ app.rb
     # 3.
     $ ruby app.rb list_recipes --format="oneline" --no-show-time
 
-app1a.rb
+### app1a.rb
 
 Addition to app.rb
+    
     # 4. uby app1a.rb list_recipes --genre French --format oneline --no-show-time
 
-app2.rb
+### app2.rb
 
     # 1. 
     $ ruby app2.rb recipes add # this will give an error
@@ -30,7 +31,7 @@ app2.rb
     $ ruby app2.rb recipes add --title="Steak" --cooking-time="10 min" --description="Good ol' steak"
 
 
-app3.rb
+### app3.rb
 
     # 1. 
     $ ruby app3.rb recipes list
@@ -38,7 +39,7 @@ app3.rb
     # 2. This will show help message for recipes.
     $ ruby app3.rb recipes
 
-app4.rb
+### app4.rb
 
     # 1. To display help
     $ ruby app4.rb recipes
